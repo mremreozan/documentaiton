@@ -1,0 +1,3 @@
+https://swatimeena989.medium.com/bert-text-classification-using-keras-903671e0207d
+https://atheros.ai/blog/text-classification-with-transformers-in-tensorflow-2
+https://discuss.huggingface.co/t/tflongformer-error-trying-to-create-optimizer-slot-variable-under-the-scope-for-tf-distribute-strategy/3485
